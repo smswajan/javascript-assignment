@@ -33,7 +33,6 @@ woodCalculator(2, 4, 5);
 
 
 // Assignment - 03 -----------------------------  brickCalculator(hight)
-
 function brickCalculator(hight) {
     let feetCount = 0, totalBrick;
 
@@ -65,8 +64,6 @@ brickCalculator(22);
 
 
 // Assignment - 04 -----------------------------  tinyFriend(names)
-
-
 function tinyFriend(names) {
     if (names.length == 0) {
         console.log("Array can't be empty!");
@@ -88,7 +85,6 @@ function tinyFriend(names) {
     return names[index];
 }
 
-
 let names = [
     'swajan',
     'safa',
@@ -96,7 +92,6 @@ let names = [
     'lui',
     'kolimuddin',
 ];
-
 
 // function call
 tinyFriend(names);
