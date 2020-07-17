@@ -64,7 +64,7 @@ brickCalculator(22);
 
 
 
-// Assignment - 04 -----------------------------  tinyFriends(names)
+// Assignment - 04 -----------------------------  tinyFriend(names)
 
 
 function tinyFriend(names) {
